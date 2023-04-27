@@ -1,19 +1,11 @@
 # NastinCOFE
 Вот вход
-![image](https://user-images.githubusercontent.com/117487209/231680750-3fc933c5-8bc0-4d4b-96d8-71dafa77f58c.png)
- 
- 
- 
- 
- 
- 
-Скрин из базы что работет правильно
-
-
-
-
-
-![image](https://user-images.githubusercontent.com/117487209/231680797-1c972bfa-c04e-4d38-a5a7-64d3c5c655a5.png)
-![image](https://user-images.githubusercontent.com/117487209/231680850-835f5303-c062-45c9-8c64-85b4cc4dd4ee.png)
-![image](https://user-images.githubusercontent.com/117487209/231680908-6b930db4-c534-41c0-9bdd-da716cd494da.png)
-![image](https://user-images.githubusercontent.com/117487209/231680961-b1c5e89c-9705-42a1-a99f-307f1721706a.png)
+![image](https://user-images.githubusercontent.com/117487209/234873593-9d2cb4e8-9101-4cd6-9483-c4d3f5dd4eeb.png)
+Вот меню
+![image](https://user-images.githubusercontent.com/117487209/234873676-052b5a6f-1e6a-4931-85fe-9b8f368f34cf.png)
+Меню с продуктами
+![image](https://user-images.githubusercontent.com/117487209/234873841-8b902eae-9d2c-433c-8641-387c509a436f.png)
+Окно добавления продукта
+![image](https://user-images.githubusercontent.com/117487209/234874142-41af4ea8-81c6-4ad3-a22d-05fa8ef5eb22.png)
+Регистрация
+![image](https://user-images.githubusercontent.com/117487209/234874272-b25de674-d72a-42bf-8e3b-6a92e7cbfd11.png)
