@@ -5,7 +5,14 @@
  
  
  
+ 
+ 
 Скрин из базы что работет правильно
+
+
+
+
+
 ![image](https://user-images.githubusercontent.com/117487209/231680797-1c972bfa-c04e-4d38-a5a7-64d3c5c655a5.png)
 ![image](https://user-images.githubusercontent.com/117487209/231680850-835f5303-c062-45c9-8c64-85b4cc4dd4ee.png)
 ![image](https://user-images.githubusercontent.com/117487209/231680908-6b930db4-c534-41c0-9bdd-da716cd494da.png)
